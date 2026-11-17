@@ -14,4 +14,5 @@ Public pages for Zero Day Gaming apps.
 
 ## Moonswarm
 
+- [Terms of Service](https://zerodaygaming.github.io/moonswarm/terms-of-service.html)
 - [Privacy Policy](https://zerodaygaming.github.io/moonswarm/privacy-policy.html)
