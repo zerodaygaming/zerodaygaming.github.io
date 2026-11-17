@@ -11,3 +11,7 @@ Public pages for Zero Day Gaming apps.
 
 - [Terms of Use](https://zerodaygaming.github.io/trystbook/terms-of-use.html)
 - [Privacy Policy](https://zerodaygaming.github.io/trystbook/privacy-policy.html)
+
+## Moonswarm
+
+- [Privacy Policy](https://zerodaygaming.github.io/moonswarm/privacy-policy.html)
